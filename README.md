@@ -1,7 +1,7 @@
 <br />
 
 <p align="center">
-    <img src="img/guy1.png" width="80" height="80"/>
+    <img src="img/guy1.png" width="80" height="95"/>
 </p>
 
 <h2 align="center">Grey Genisys</h2>
