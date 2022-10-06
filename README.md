@@ -4,7 +4,7 @@
     <img src="img/guy1.png" width="80" height="95"/>
 </p>
 
-<h2 align="center">Grey Genisys</h2>
+<h2 align="center">Go! Grey</h2>
 <br />
 
 <p align="justify">
